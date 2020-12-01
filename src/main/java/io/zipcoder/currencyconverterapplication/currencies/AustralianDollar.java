@@ -7,6 +7,6 @@ public class AustralianDollar implements ConvertableCurrency {
 
     @Override
     public CurrencyType getType() {
-        return CurrencyType.CANADIAN_DOLLAR;
+        return CurrencyType.AUSTRALIAN_DOLLAR;
     }
 }
